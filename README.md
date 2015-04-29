@@ -1,2 +1,2 @@
-# freeExamples
+# free-examples
 examples of Free
